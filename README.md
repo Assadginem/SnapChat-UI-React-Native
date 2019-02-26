@@ -9,5 +9,7 @@ Built in React Native using libraries and features:
  
  
  
- 
- assisted by nathvarun
+    1. pull project 
+    2. cd into SnapChat-UI-React-Native
+    3. yarn install 
+    4. yarn start 
